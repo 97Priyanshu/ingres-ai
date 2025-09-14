@@ -1,0 +1,7 @@
+{
+  "name": "Ingres AI Chatbot",
+  "description": "A modern, minimal, and aesthetic UI prototype for an AI chatbot for INGRES (Indian Ground Water Resource Estimation System). This prototype is designed for presentation and showcases the core UI/UX concepts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
